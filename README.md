@@ -3,7 +3,7 @@
 <img src="logo.png" alt="FlintLauncher Logo" width="600"/>
 
 
-### FlintLauncher : Minecraft Java Edition on Android.
+### FlintLauncher : Minecraft Java Edition on Android. imgay
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Android%208%2B-brightgreen?style=flat-square)
